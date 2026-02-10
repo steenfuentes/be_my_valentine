@@ -1,6 +1,8 @@
-# Valentine
+# Be My Valentine
 
 An interactive Valentine's Day web app with a playful question flow and a heart-shaped cellular automaton visualization.
+
+They'll think it's a great idea and just won't be able to say no...
 
 ## Features
 
