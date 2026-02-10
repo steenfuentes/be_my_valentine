@@ -1,0 +1,18 @@
+{
+  "backButton": {
+    "celebration": [
+      "Wait, you wanna say yes twice?",
+      "Can't get enough of that Yes button?",
+      "Going back for seconds?",
+      "The answer's still gonna be yes...",
+      "Feeling nostalgic already?"
+    ],
+    "automaton": [
+      "Miss me already?",
+      "The heart wants what it wants...",
+      "Back to celebrate some more?",
+      "Can't stop saying yes, huh?",
+      "Round two?"
+    ]
+  }
+}
